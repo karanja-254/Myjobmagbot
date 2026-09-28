@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+myjobkenya.db
+myjobkenya.db.restore-staging
+backups/
+report_*.pdf
+report_*.xlsx
